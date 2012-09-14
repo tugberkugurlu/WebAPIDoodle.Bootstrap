@@ -1,6 +1,6 @@
 # WebAPIDoodle.Bootstrap
 
-Source code of the several ASP.NET Web API samples. These source code is used for creating NuGet packages and they are not meant to be used directly. 
+Source code of the several ASP.NET Web API samples. The source code is used for creating NuGet packages and it is not meant to be used directly. 
 
 You can use them by directly installing the packages through NuGet. Steps:
 
